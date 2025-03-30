@@ -10,4 +10,3 @@ The **Recipe Sharing App** allows users to add, view, and filter recipes easily.
 - ✅ Filter recipes based on categories (Breakfast, Lunch, Dinner, Dessert, Drinks).
 - ✅ Dark mode toggle for better user experience.
 
-## 📂 Project Structure
